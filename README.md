@@ -29,14 +29,6 @@ The application uses JavaScript for flexibility and to enable the addition of ne
 
 ---
 
-## Executables for Windows and Linux
-
-You can now download and run the form without needing to install Node.js!
-
-### Download
-
-- **Windows:** [Download formularioPlantao.exe](https://github.com/SEU_USUARIO/formularioPlantao/releases/latest) <!-- Replace with your actual repository and release link -->
-- **Linux:** [Download formularioPlantao-linux](https://github.com/SEU_USUARIO/formularioPlantao/releases/latest) <!-- Replace with your actual repository and release link -->
 
 ### How to generate the executable (.exe and Linux) yourself
 
@@ -133,15 +125,6 @@ A aplicação utiliza JavaScript para proporcionar flexibilidade e permitir a in
 12. Enviar por whatsapp.
 
 ---
-
-## Executáveis para Windows e Linux
-
-Agora você pode baixar e executar o formulário sem precisar instalar o Node.js!
-
-### Download
-
-- **Windows:** [Baixar formularioPlantao.exe](https://github.com/SEU_USUARIO/formularioPlantao/releases/latest) <!-- Troque pelo link real do seu repositório e release -->
-- **Linux:** [Baixar formularioPlantao-linux](https://github.com/SEU_USUARIO/formularioPlantao/releases/latest) <!-- Troque pelo link real do seu repositório e release -->
 
 ### Como gerar o executável (.exe e Linux) por conta própria
 
