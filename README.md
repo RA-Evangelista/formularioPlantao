@@ -20,6 +20,19 @@ The application uses JavaScript for flexibility and to enable the addition of ne
 - Node.js
 - Express.js
 
+## Installation
+
+1. Download and install [Node.js](https://nodejs.org/).
+2. Open your terminal and navigate to your project folder.
+3. Initialize your project with Node.js:
+   ```
+   npm init -y
+   ```
+4. Install Express:
+   ```
+   npm install express
+   ```
+
 ## Contribution
 
 Contributions are welcome! Feel free to open issues and pull requests.
@@ -50,6 +63,19 @@ A aplicação utiliza JavaScript para proporcionar flexibilidade e permitir a in
 - JavaScript
 - Node.js
 - Express.js
+
+## Instalação
+
+1. Baixe e instale o [Node.js](https://nodejs.org/).
+2. Abra o terminal e vá até a pasta do seu projeto.
+3. Inicialize o projeto Node.js:
+   ```
+   npm init -y
+   ```
+4. Instale o Express:
+   ```
+   npm install express
+   ```
 
 ## Contribuição
 
