@@ -1,0 +1,21 @@
+{
+  "name": "passagem-plantao",
+  "version": "1.0.0",
+  "description": "Gerador de Relatório de Plantão",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.seuapp.passagemplantao",
+    "productName": "Passagem de Plantão",
+    "win": {
+      "target": "nsis"
+    }
+  },
+  "devDependencies": {
+    "electron": "^31.0.0",
+    "electron-builder": "^24.0.0"
+  }
+}
