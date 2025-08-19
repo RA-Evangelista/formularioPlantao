@@ -53,10 +53,6 @@ This project is licensed under the MIT License.
 
 Este é um formulário web desenvolvido para contabilizar unidades em chamados, facilitando a geração de relatórios e o controle dos atendimentos.
 
-## Visualização
-
-![Visualização](./assets/screenshot.png)
-
 A aplicação utiliza JavaScript para proporcionar flexibilidade e permitir a inclusão de novas funcionalidades no futuro.
 
 ## Como usar
