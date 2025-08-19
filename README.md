@@ -1,3 +1,5 @@
+🇬🇧 English | 🇧🇷 Português (scroll down)
+
 # Unit Control Form for Service Calls  
 (Formulário de Controle de Unidades em Chamados)
 
@@ -47,7 +49,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# Formulário de Controle de Unidades em Chamados
+# 🇧🇷 Formulário de Controle de Unidades em Chamados
 
 Este é um formulário web desenvolvido para contabilizar unidades em chamados, facilitando a geração de relatórios e o controle dos atendimentos.
 
