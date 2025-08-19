@@ -3,6 +3,10 @@
 
 This is a web form developed to keep track of units in service calls, making it easier to generate reports and monitor activities.
 
+## Preview
+
+![Preview](./assets/screenshot.png)
+
 The application uses JavaScript for flexibility and to enable the addition of new features in the future.
 
 ## How to Use
@@ -46,6 +50,10 @@ This project is licensed under the MIT License.
 # Formulário de Controle de Unidades em Chamados
 
 Este é um formulário web desenvolvido para contabilizar unidades em chamados, facilitando a geração de relatórios e o controle dos atendimentos.
+
+## Visualização
+
+![Visualização](./assets/screenshot.png)
 
 A aplicação utiliza JavaScript para proporcionar flexibilidade e permitir a inclusão de novas funcionalidades no futuro.
 
